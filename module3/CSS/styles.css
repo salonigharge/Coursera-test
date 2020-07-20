@@ -42,6 +42,7 @@ body {
     margin-top:0;
     margin-bottom:0;
     line-height: .75;
+    padding: 15px;
 }
 
 .navbar-brand a:hover {
@@ -96,7 +97,7 @@ body {
 #Chicken-tile, #Beef-tile, #Sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #3F0C1F;
+    background-color: #f6b319;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
